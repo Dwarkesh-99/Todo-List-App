@@ -15,7 +15,7 @@ document.onreadystatechange = function () {
   if (document.readyState !== "complete") {
     // document.querySelector("body").style.visibility = "hidden";
     document.getElementById("modalStart").click();
-    if (localStorage.getItem(this.fontName) !== "" || null) {
+    if (localStorage.getItem(this.fontName) !== null) {
       document.getElementById("body").style.fontFamily = localStorage.getItem(
         this.fontName
       );
