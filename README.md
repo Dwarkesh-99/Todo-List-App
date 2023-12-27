@@ -5,7 +5,8 @@ A simple and intuitive web-based Todo List application to help you organize your
 
 ## Live Demo
 
-Check out the live demo of Todo: [Todo App Live Demo](https://codepen.io/Dwarkesh/full/vYbQzEd)
+Check out the live demo of Todo: <a href="https://codepen.io/Dwarkesh/full/vYbQzEd" target="_blank">Todo App Live Demo</a>
+
 
 Feel free to explore the features and functionalities of Todo app. Your feedback is highly appreciated!
 
